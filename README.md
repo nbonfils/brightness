@@ -13,7 +13,7 @@ Really simple, no bs, 77 lines, 12Ko final binary size.
   - `sudo chown root:root brightness`
 4. Give it SUID mode.
   - `sudo chmod u+xs brightness`
-5. Move it in your path, or wherever you want, I don't care.
+5. Move it in your `$PATH`, or wherever you want, I don't care.
 6. ???
 7. Profit
 
