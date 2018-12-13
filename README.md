@@ -47,4 +47,4 @@ This might be inconvenient for key-bindings within your wm (I hope your wm doesn
 
 USE AT YOUR OWN RISK!
 
-License is MIT so do whatever the hell you want this software ;)
+License is MIT so do whatever the hell you want with this software ;)
