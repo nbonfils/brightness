@@ -31,9 +31,11 @@ Simple af right? :)
 ## Feeling like a h@ck3erman ?
 
 Modify the `step` variable to your needs.
+
 The system file used to control the brightness are:
 - `/sys/class/backlight/intel_backlight/max_brightness`
 - `/sys/class/backlight/intel_backlight/brightness`
+
 You might want to adjust those according to your hardware.
 
 ## Shell Script?
@@ -41,4 +43,8 @@ You might want to adjust those according to your hardware.
 Should work in theory, but since you can only SUID binaries, you'll have to run it as a priviledged user.
 This might be inconvenient for key-bindings within your wm (I hope your wm doesn't run on root privilege :p).
 
-disclaimer: USE AT YOUR OWN RISK!
+## Disclaimer
+
+USE AT YOUR OWN RISK!
+
+License is MIT so do whatever the hell you want this software ;)
